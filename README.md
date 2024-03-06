@@ -7,5 +7,3 @@
 [![](https://visitcount.itsvg.in/api?id=rrekaF&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-https://code-with-me.global.jetbrains.com/axiie3COOtsX_44JDp5HwA#p=IU&fp=82505D6305B5059802EC91737C4864B0BC0B83F8EFD7EECBF44AAF9E259ED702&newUi=true
